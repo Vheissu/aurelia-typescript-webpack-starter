@@ -35,6 +35,7 @@
     "aurelia-templating-binding": "^1.0.0-beta.1.2.1",
     "aurelia-templating-resources": "^1.0.0-beta.1.2.2",
     "aurelia-templating-router": "^1.0.0-beta.1.2.0",
+    "bluebird": "^3.3.5",
     "isomorphic-fetch": "^2.2.1"
   },
   "devDependencies": {
